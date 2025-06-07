@@ -30,7 +30,7 @@ public class BancoEstacio {
         if (loginBemSucedido) {
             System.out.println("Meu banco");
 
-            String nome = "Angelo";
+            String nome = "Pedro";
             String tipoDeConta = "corrente";
             String numeroConta = "12345-6";
             double saldo = 0;
